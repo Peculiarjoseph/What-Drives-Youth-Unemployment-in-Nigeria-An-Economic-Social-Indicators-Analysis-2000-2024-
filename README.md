@@ -6,7 +6,7 @@ An end-to-end data analytics project investigating the relationship between yout
 
 ## Project Overview
 
-Youth unemployment remains an important economic and social challenge in Nigeria. However, unemployment does not exist in isolation—it can be influenced by broader economic conditions, investment, and infrastructure development.
+Youth unemployment remains an important economic and social challenge in Nigeria. However, unemployment does not exist in isolation, it can be influenced by broader economic conditions, investment, and infrastructure development.
 
 This project investigates the relationship between Youth Unemployment and selected economic and development indicators in Nigeria between 2000 and 2024.
 
