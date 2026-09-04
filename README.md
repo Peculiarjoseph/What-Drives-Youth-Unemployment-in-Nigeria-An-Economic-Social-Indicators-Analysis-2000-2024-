@@ -84,30 +84,30 @@ World Bank API
       │  
       ▼  
 Data Collection  
-      │
-      ▼
-Data Cleaning & Preparation
-      │
-      ▼
-Exploratory Data Analysis
-      │
-      ▼
-Correlation Analysis
-      │
-      ▼
-OLS Regression
-      │
-      ▼
-Multicollinearity Testing (VIF)
-      │
-      ▼
-Regression Diagnostics
-      │
-      ▼
-HAC Robust Regression
-      │
-      ▼
-Power BI Dashboard
+      │  
+      ▼  
+Data Cleaning & Preparation  
+      │  
+      ▼  
+Exploratory Data Analysis  
+      │  
+      ▼  
+Correlation Analysis  
+      │  
+      ▼  
+OLS Regression  
+      │  
+      ▼  
+Multicollinearity Testing (VIF)  
+      │  
+      ▼  
+Regression Diagnostics  
+      │  
+      ▼  
+HAC Robust Regression  
+      │  
+      ▼  
+Power BI Dashboard.
 
 
 ## Data Source
