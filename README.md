@@ -40,12 +40,12 @@ Using 25 years of World Bank data (2000–2024), this analysis explored the rela
 
 Key findings:
 
-GDP Growth showed a statistically significant negative association with youth unemployment.
+i. GDP Growth showed a statistically significant negative association with youth unemployment.
 
-Inflation also showed a statistically significant negative association with youth unemployment in the final model.
+ii. Inflation also showed a statistically significant negative association with youth unemployment in the final model.
 
-Foreign Direct Investment (FDI) was not statistically significant in the final regression model.
+iii. Foreign Direct Investment (FDI) was not statistically significant in the final regression model.
 
-Electricity Access was not statistically significant in the final regression model.
+iv. Electricity Access was not statistically significant in the final regression model.
 
-The final regression model explained approximately 63.8% of the variation in youth unemployment.
+v. The final regression model explained approximately 63.8% of the variation in youth unemployment.
