@@ -12,7 +12,7 @@ This project investigates the relationship between Youth Unemployment and select
 
 The analysis combines:
 
- API data collection
+ API data collection  
  Python data analysis
  Exploratory Data Analysis
  Correlation analysis
