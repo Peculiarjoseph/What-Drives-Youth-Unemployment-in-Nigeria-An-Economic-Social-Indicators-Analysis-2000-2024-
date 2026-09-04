@@ -80,10 +80,10 @@ Economic and social indicator trends
 
 ## Analytical Workflow
 
-World Bank API
-      │
-      ▼
-Data Collection
+World Bank API  
+      │  
+      ▼  
+Data Collection  
       │
       ▼
 Data Cleaning & Preparation
