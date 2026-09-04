@@ -19,7 +19,7 @@ The analysis combines:
  Multiple Linear Regression  
  Regression diagnostics  
  HAC robust regression  
- Power BI dashboard development
+ Power BI dashboard development.
 
  ## Research Question
 
@@ -30,7 +30,7 @@ GDP Growth
 Inflation  
 Foreign Direct Investment (FDI)  
 Internet Usage  
-Electricity Access  
+Electricity Access. 
 
 
 ## Executive Summary
@@ -114,7 +114,7 @@ Power BI Dashboard
 
 The data used in this project was obtained from the World Bank API.
 
-The analysis covers Nigeria from: 2000–2024
+The analysis covers Nigeria from: 2000–2024.
 
 ## Indicators Used
 | Indicator | Description |
@@ -150,10 +150,10 @@ Combining multiple indicators into a single dataset
 Handling missing values  
 Checking data types  
 Removing incomplete observations  
-Excluding 2025 because complete data was unavailable
+Excluding 2025 because complete data was unavailable.
 
 The final dataset contained: 25 observations × 7 variables
-covering the period: 2000–2024
+covering the period: 2000–2024.
 
 ## Exploratory Data Analysis
 
@@ -161,16 +161,16 @@ Exploratory Data Analysis was conducted to understand:
 
 The distribution of the variables  
 Historical trends  
-Relationships between indicators  
+Relationships between indicators    
 Potential outliers  
-Correlation patterns  
+Correlation patterns.  
 
 The analysis included:
 
-Summary statistics
-Line charts
-Scatter plots
-Correlation analysis
+Summary statistics  
+Line charts  
+Scatter plots  
+Correlation analysis. 
 
 
 ## Correlation Analysis
@@ -187,11 +187,7 @@ The correlation analysis examined the linear relationship between youth unemploy
 
 GDP Growth and Inflation showed the strongest correlations with youth unemployment among the selected indicators.
 
-However:
-
-Correlation does not imply causation.
-
-The relationships were therefore investigated further using multiple regression analysis.
+However, Correlation does not imply causation. The relationships were therefore investigated further using multiple regression analysis.
 
 ## Regression Analysis
 
