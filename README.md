@@ -13,22 +13,22 @@ This project investigates the relationship between Youth Unemployment and select
 The analysis combines:
 
  API data collection  
- Python data analysis
- Exploratory Data Analysis
- Correlation analysis
- Multiple Linear Regression
- Regression diagnostics
- HAC robust regression
+ Python data analysis  
+ Exploratory Data Analysis  
+ Correlation analysis  
+ Multiple Linear Regression  
+ Regression diagnostics  
+ HAC robust regression  
  Power BI dashboard development
 
  ## Research Question
 
-What economic and social indicators are associated with youth unemployment in Nigeria?
+What economic and social indicators are associated with youth unemployment in Nigeria?  
 
 The project investigates the relationship between youth unemployment and:
 
-GDP Growth
-Inflation
-Foreign Direct Investment (FDI)
-Internet Usage
-Electricity Access
+GDP Growth  
+Inflation  
+Foreign Direct Investment (FDI)  
+Internet Usage  
+Electricity Access  
